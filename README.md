@@ -1,14 +1,14 @@
-# RESTful API Node Server Boilerplate
+# MedicaLink Backend
 
-MedicaLink Backend: RESTful APIs for Online Medical Appointment and Management System for Hospitals, built with Node.js, Express, and Mongoose.
+RESTful APIs for Online Medical Appointment and Management System for Hospitals, built with Node.js, Express, and Mongoose.
 
 ## Quick Start
 
 Clone the repo:
 
 ```bash
-git clone https://github.com/ldblckrs-258/medicalink.git
-cd medicalink
+git clone https://github.com/ldblckrs-258/medicalink-backend.git
+cd medicalink-backend
 ```
 
 Install the dependencies:
